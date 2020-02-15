@@ -1,4 +1,4 @@
-package co.uk.h-f;
+package co.uk.hf;
 
 import static org.junit.Assert.assertTrue;
 
