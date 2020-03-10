@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="898bd655-09d6-4f32-b731-645c17aad87e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/hf/commons/Browsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/hf/commons/DriverLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/hf/hooks/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/hf/pages/AboutUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/hf/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/hf/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/uk/hf/stepDefinitions/ViewAboutUsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/uk/hf/stepDefinitions/ViewAboutUsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/uk/hf/runners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/uk/hf/runners/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/uk/hf/stepDefinitions/ViewAboutUsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/uk/hf/stepDefinitions/ViewAboutUsSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,50 +109,70 @@
       <option name="project" value="LOCAL" />
       <updated>1581738809187</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I opened HF homepage!!!">
+      <created>1581741351215</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581741351215</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit initial test framework" />
     <MESSAGE value="Step Definitions successfully generated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step Definitions successfully generated" />
+    <MESSAGE value="I opened HF homepage!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="I opened HF homepage!!!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581735251565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581735251565" />
+    <state x="502" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581743543692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581743543692" />
     <state x="407" y="101" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1581735523736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="407" y="101" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581735523736" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1581738808525">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1581741350466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581738808525" />
-    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1581741244916">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581741350466" />
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1583811331752">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581741244916" />
-    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1581741244916">
+    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583811331752" />
+    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1583811331751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581741244916" />
-    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1581741244916">
+    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583811331751" />
+    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1583811331751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581741244916" />
-    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1581741244916">
+    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583811331751" />
+    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1583811331752">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581741244916" />
+    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583811331752" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1581735743893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581735743893" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1581738816266">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1581741354785">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581738816266" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581741354785" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581812014635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581812014635" />
+    <state x="209" y="115" key="new project wizard" timestamp="1581743636994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="115" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581743636994" />
   </component>
 </project>
